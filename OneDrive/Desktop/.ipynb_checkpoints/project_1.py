@@ -1,5 +1,3 @@
-# project_1.py
-
 def fibonacci(n):
     a, b = 0, 1
     fib = []
@@ -14,4 +12,3 @@ def classer(classeur, nombre):
     else:
         classeur['Negatif'].append(nombre)
     return classeur
-# end project_1.py
